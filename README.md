@@ -7,4 +7,4 @@ This HTML is able to generate strings with the desired length.
 * Uppercase
 * Numbers
 
-![NickGen](https://gyazo.com/12d356a1c0585aeca1fc512687554961)
+![NickGen](https://i.gyazo.com/12d356a1c0585aeca1fc512687554961.png)
